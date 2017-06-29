@@ -10,10 +10,13 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+#include <stdio.h>
+
 void	ubludok_mat_tvoyu_suda_idi()
 {}
 
-int main()
+int		main(void)
 {
+	printf("hello plz\n");
 	return (0);
 }
