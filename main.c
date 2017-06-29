@@ -18,5 +18,6 @@ void	ubludok_mat_tvoyu_suda_idi()
 int		main(void)
 {
 	printf("hello plz\n");
+	//pisun
 	return (0);
 }
